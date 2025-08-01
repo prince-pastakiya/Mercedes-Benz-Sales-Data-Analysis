@@ -76,38 +76,23 @@ This project offers a powerful visual representation of Mercedes-Benz car sales 
 
 ### 📌 Project Objectives
 
-- # 🎯 Business Goal
-    Deliver a professional, interactive dashboard to visualize and monitor key Mercedes-Benz car sales trends for stakeholders and decision-makers.
+-  **🎯 Business Goal**
+    *Deliver a professional, interactive dashboard to visualize and monitor key Mercedes-Benz car sales trends for stakeholders and decision-makers.*
 
-- # 🔍 Technical Goals
-    Clean and transform raw sales data using Power Query.
+-  **🔍 Technical Goals**
+    *Clean and transform raw sales data using Power Query.*
 
-- # Design a star schema data model inside Power BI.
+-  **Design a star schema data model inside Power BI.**
 
-- # Create insightful visualizations using charts, slicers, cards, and tables.
+-  **Create insightful visualizations using charts, slicers, cards, and tables.**
 
-- # Build reusable KPIs using DAX functions.
-
-📂 Repository Structure
-mathematica
-Copy code
-Mercedes-Benz-Sales-Dashboard/
-│
-├── Dataset/
-│   └── Mercedes_Sales.csv
-│
-├── Documents/
-│   ├── Mercedes-Dashboard.png
-│   └── Data-Dictionary.pdf
-│
-├── Dashboard/
-│   └── Mercedes_Sales.pbix
-│
-└── README.md
+-  **Build reusable KPIs using DAX functions.**
 
 --- 
 
 ## 🙌 Let's Connect!
 *If you liked this project or want to collaborate on future data analytics or BI dashboards, feel free to reach out:*
+---
+*Sincerely,*
 Prince H. Pastakiya
 [princepastakiya@gmail.com]
