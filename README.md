@@ -74,6 +74,7 @@ This project offers a powerful visual representation of Mercedes-Benz car sales 
 - What is the impact of fuel type or engine type on sales?
 - These insights support strategic decisions in marketing, inventory planning, and product development.
 
+---
 ### 📌 Project Objectives
 
 -  **🎯 Business Goal**
