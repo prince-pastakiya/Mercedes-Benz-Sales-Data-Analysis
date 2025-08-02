@@ -93,8 +93,6 @@ This project offers a powerful visual representation of Mercedes-Benz car sales 
 
 ## 🙌 Let's Connect!
 *If you liked this project or want to collaborate on future data analytics or BI dashboards, feel free to reach out:*
----
-## 🙌 Connect with Me
 
 📧 [princepastakiya@gmail.com]  
 🌐 [LinkedIn](https://www.linkedin.com/in/prince-pastakiya/)  
